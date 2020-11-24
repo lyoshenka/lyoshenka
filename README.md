@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 👋
 
 I'm building [LBRY](https://github.com/lbryio), a decentralized media protocol for the modern era. It underlies [Odysee](https://odysee.com), the community-first video site that Youtube could have been if it hadn't sold out to ad companies.
 
