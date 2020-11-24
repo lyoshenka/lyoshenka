@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm building [LBRY](https://github.com/lbryio), a decentralized media protocol for the modern era. It underlies [Odysee](https://odysee.com), the community-first video site that Youtube could have been if it hadn't sold out to ad companies.
+
+If this kind of project speaks to you, reach out! I'd love to chat.
+
+Find me at [grin.io](https://grin.io) or on Twitter at [@lyoshenka](https://twitter.com/lyoshenka).
+
 <!--
 **lyoshenka/lyoshenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
