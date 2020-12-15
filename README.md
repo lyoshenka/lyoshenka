@@ -4,7 +4,7 @@ I'm building [LBRY](https://github.com/lbryio), a decentralized media protocol f
 
 If this kind of project speaks to you, reach out! I'd love to chat.
 
-Find me at [grin.io](https://grin.io) or on Twitter at [@lyoshenka](https://twitter.com/lyoshenka).
+Find me at [grin.io](https://grin.io) or on Twitter at [@grin_io](https://twitter.com/grin_io).
 
 <!--
 **lyoshenka/lyoshenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
