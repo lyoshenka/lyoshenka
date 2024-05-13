@@ -1,10 +1,12 @@
 ### Howdy 👋
 
-I'm building [LBRY](https://github.com/lbryio), a decentralized media protocol for the modern era. It underlies [Odysee](https://odysee.com), the community-first video site that Youtube could have been if it hadn't sold out to ad companies.
+I'm working on [Cabin](https://cabin.city), a network city of modern villages. We help you upgrade your local neighborhood to be the kind of place you'd want to grow up in: more social, more communal, more intergenerational, more values-aligned. Then we connect you to similar neighborhoods around the world to form the Cabin network city.
 
-If this kind of project speaks to you, reach out! I'd love to chat.
+Before Cabin, I founded [LBRY](https://github.com/lbryio) -- a decentralized media protocol for the modern era. LBRY powers [Odysee](https://odysee.com), the community-first video site that Youtube could have been if it hadn't sold out to ad companies.
 
-Find me at [grin.io](https://grin.io) or on Twitter at [@grin_io](https://twitter.com/grin_io).
+On the side, I've launched several URL-to-IRL events and conferences for online communities, including [VibeCamp](https://vibe.camp), [FarCon](https://farcon.xyz), and [TNS Camp](https://tns.camp).
+
+Find me at [grin.io](https://grin.io) or on Farcaster at [@grin](https://www.farcaster.id/grin).
 
 <!--
 **lyoshenka/lyoshenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
