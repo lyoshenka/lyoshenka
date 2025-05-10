@@ -1,10 +1,10 @@
 ### Howdy 👋
 
-I'm working on [Cabin](https://cabin.city), a network city of modern villages. We help you upgrade your local neighborhood to be the kind of place you'd want to grow up in: more social, more communal, more intergenerational, more values-aligned. Then we connect you to similar neighborhoods around the world to form the Cabin network city.
+I'm a lifelong founder and web wizard. Currently I'm building AI products at [Neynar](https://neynar.com).
 
-Before Cabin, I founded [LBRY](https://github.com/lbryio) -- a decentralized media protocol for the modern era. LBRY powers [Odysee](https://odysee.com), the community-first video site that Youtube could have been if it hadn't sold out to ad companies.
+On the side, I've launched several URL-to-IRL events and conferences for online communities, including [VibeCamp](https://vibe.camp), [FarCon](https://farcon.xyz),  [TNS Camp](https://tns.camp), and [Fractal Boston](https://fractal.boston)
 
-On the side, I've launched several URL-to-IRL events and conferences for online communities, including [VibeCamp](https://vibe.camp), [FarCon](https://farcon.xyz), and [TNS Camp](https://tns.camp).
+Previously I foundered [Cabin](https://cabin.city), [LBRY](https://lbry.com)/[Odysee](https://odysee.com), and [TopScore](https://usetopscore.com).
 
 Find me at [grin.io](https://grin.io) or on Farcaster at [@grin](https://www.farcaster.id/grin).
 
